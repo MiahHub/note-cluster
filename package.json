@@ -1,0 +1,19 @@
+{
+  "name": "note-cluster",
+  "version": "1.0.0",
+  "description": "note taking application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiahHub/note-cluster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiahHub/note-cluster/issues"
+  },
+  "homepage": "https://github.com/MiahHub/note-cluster#readme"
+}
