@@ -38,7 +38,7 @@ This application can be used to take simple notes in a web application.
 
 ## Credits
 
-[Jeremiah Chesley](https://github.com/MiahHub/note-cluster) [YouTube](https://youtube.com) [Starter Code] (https://github.com/coding-boot-camp/miniature-eureka)
+[Jeremiah Chesley](https://github.com/MiahHub/note-cluster), [YouTube](https://youtube.com), [Starter Code](https://github.com/coding-boot-camp/miniature-eureka)
 
 ## License ISC Copyright 2023 Jeremiah Chesley, et al.
 
