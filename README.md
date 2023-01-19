@@ -42,7 +42,7 @@ This application can be used to take simple notes in a web application.
 
 ## Contribution
 
-Please reach-out to the [developer](https://github.com/MiahHub/note-cluster) or visit the [GitHub](https://github.com/MiahHub/note-cluster) repo: 
+Please reach-out to the [developer](https://github.com/MiahHub/note-cluster) or visit the [GitHub](https://github.com/MiahHub/note-cluster) repository.
 
 ## License ISC Copyright 2023 Jeremiah Chesley, et al.
 
