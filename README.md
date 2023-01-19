@@ -26,7 +26,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Description
 
-This nate taker project allows users to write, store, and delete notes.
+This note taker project allows users to write, store, and delete notes.
 
 ## Installation and Operation
 
@@ -39,6 +39,10 @@ This application can be used to take simple notes in a web application.
 ## Credits
 
 [Jeremiah Chesley](https://github.com/MiahHub/note-cluster), [YouTube](https://youtube.com), [Starter Code](https://github.com/coding-boot-camp/miniature-eureka)
+
+## Contribution
+
+Please reach-out to the [developer](https://github.com/MiahHub/note-cluster) or visit the [GitHub](https://github.com/MiahHub/note-cluster) repo: 
 
 ## License ISC Copyright 2023 Jeremiah Chesley, et al.
 
