@@ -24,23 +24,23 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
-# Description
+## Description
 
 This nate taker project allows users to write, store, and delete notes.
 
-# Installation and Operation
+## Installation and Operation
 
 Visit the deployed Note Taker project running on Heroku to use. [Deployed App](https://git.heroku.com/peaceful-fortress-23015.git) Download and installation is not required.
 
-# Useage
+## Useage
 
 This application can be used to take simple notes in a web application.
 
-# Credits
+## Credits
 
 [Jeremiah Chesley](https://github.com/MiahHub/note-cluster) [YouTube](https://youtube.com) [Starter Code] (https://github.com/coding-boot-camp/miniature-eureka)
 
-# License ISC Copyright 2023 Jeremiah Chesley, et al.
+## License ISC Copyright 2023 Jeremiah Chesley, et al.
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
